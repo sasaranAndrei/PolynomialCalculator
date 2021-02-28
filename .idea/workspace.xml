@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="346fef21-b299-4359-af54-01b33efa9fbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/pt2020_30221_sasaran_andrei_assignment_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PolynomialCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PolynomialTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PolynomialTests.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZFyPVRynAOyFJ4a0fDbnEz1FmP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PolynomialTests.testPolynomialIntegration">
+    <configuration name="PolynomialTests.testPolynomialDerivation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PolynomialCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PolynomialTests" />
+      <option name="METHOD_NAME" value="testPolynomialDerivation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolynomialTests.testPolynomialDivision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PolynomialCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PolynomialTests" />
+      <option name="METHOD_NAME" value="testPolynomialDivision" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolynomialTests.testPolynomialIntegration" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="PolynomialCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PolynomialTests" />
+      <option name="METHOD_NAME" value="testPolynomialIntegration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolynomialTests.testPolynomialMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PolynomialCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PolynomialTests" />
+      <option name="METHOD_NAME" value="testPolynomialMultiplication" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolynomialTests.testPolynomialSubtraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PolynomialCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PolynomialTests" />
+      <option name="METHOD_NAME" value="testPolynomialSubtraction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PolynomialTests.testPolynomialIntegration" />
+        <item itemvalue="JUnit.PolynomialTests.testPolynomialDerivation" />
+        <item itemvalue="JUnit.PolynomialTests.testPolynomialDivision" />
+        <item itemvalue="JUnit.PolynomialTests.testPolynomialMultiplication" />
+        <item itemvalue="JUnit.PolynomialTests.testPolynomialSubtraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="346fef21-b299-4359-af54-01b33efa9fbd" name="Default Changelist" comment="" />
+      <created>1584449112342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584449112342</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

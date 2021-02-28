@@ -3,11 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="346fef21-b299-4359-af54-01b33efa9fbd" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/pt2020_30221_sasaran_andrei_assignment_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PolynomialCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PolynomialCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PolynomialCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PolynomialTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PolynomialTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PolynomialTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PolynomialTests.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZFyPVRynAOyFJ4a0fDbnEz1FmP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,7 +47,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PolynomialTests.testPolynomialIntegration">
+  <component name="RunManager" selected="Application.MVCCalculator">
+    <configuration name="MVCCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolynomialCalculator.MVCCalculator" />
+      <module name="PolynomialCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PolynomialCalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PolynomialTests.testPolynomialDerivation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PolynomialCalculator" />
       <option name="PACKAGE_NAME" value="" />
@@ -66,7 +81,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolynomialTests.testPolynomialIntegration" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration name="PolynomialTests.testPolynomialIntegration" type="JUnit" factoryName="JUnit">
       <module name="PolynomialCalculator" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PolynomialTests" />
@@ -96,9 +111,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolynomialCalculator" type="JarApplication">
+      <option name="WORKING_DIRECTORY" value="D:\AN 2 SEM 2\TP\ass 1\pt2020_30221_sasaran_andrei_assignment_1\PolynomialCalculator\src\main\java\PolynomialCalculator" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.PolynomialCalculator" />
+      <item itemvalue="JUnit.PolynomialTests.testPolynomialIntegration" />
+      <item itemvalue="JUnit.PolynomialTests.testPolynomialDerivation" />
+      <item itemvalue="JUnit.PolynomialTests.testPolynomialDivision" />
+      <item itemvalue="JUnit.PolynomialTests.testPolynomialMultiplication" />
+      <item itemvalue="JUnit.PolynomialTests.testPolynomialSubtraction" />
+      <item itemvalue="Application.MVCCalculator" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PolynomialTests.testPolynomialIntegration" />
+        <item itemvalue="Application.MVCCalculator" />
         <item itemvalue="JUnit.PolynomialTests.testPolynomialDerivation" />
         <item itemvalue="JUnit.PolynomialTests.testPolynomialDivision" />
         <item itemvalue="JUnit.PolynomialTests.testPolynomialMultiplication" />
